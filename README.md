@@ -175,26 +175,3 @@ dependencies {
 }
 ```
 
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/d5e0026960ef2df51f0e55327a065c0d
-
-## Sample Solution:
-
-https://github.com/melvincabatuan/Scharr
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-"*Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.*" -  Ted Nelson
